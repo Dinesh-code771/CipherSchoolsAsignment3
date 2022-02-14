@@ -1,0 +1,62 @@
+.backimg{
+   /* The image used */
+   background-image:  url("https://thumbs.dreamstime.com/b/online-web-registration-form-website-using-laptop-211501725.jpg");
+
+   /* Full height */
+   height: 100%; 
+ 
+   /* Center and scale the image nicely */
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+.cont{
+  position: relative;
+  height: 100vh;
+  width: auto;
+
+  /* The image used */
+  background-image:  url("https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-finance-app-page-geometric-background-banner-image_157396.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.h4{
+  text-align: center;
+  position: absolute;
+  left: 30%;
+  top: 15%; 
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: black;
+  font-weight: 800;
+  font-size:xx-large;
+}
+body {
+  background-color: rgb(245, 241, 241);
+}
+
+.form {
+  position: absolute;
+  top: 50%;
+  background-color: #46df9a;
+  position: absolute;
+  padding: 10px;
+  width: 40%;
+  left: 30%;
+  top: 25%;
+  color: white;
+  font-size: large;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 600;
+  border-radius: 10px;
+  box-shadow: 10px -1px 16px -6px rgba(0,0,0,0.7);
+-webkit-box-shadow: 10px -1px 16px -6px rgba(0,0,0,0.7);
+-moz-box-shadow: 10px -1px 16px -6px rgba(0,0,0,0.7);
+}
